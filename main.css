@@ -1,0 +1,6 @@
+.choices {
+  height: 275px;
+  width: 415px;
+  border: 1px solid black;
+  cursor: pointer;
+}
